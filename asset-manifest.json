@@ -1,14 +1,16 @@
 {
-  "main.css": "/static/css/main.5fbb8536.chunk.css",
-  "main.js": "/static/js/main.58cd5f29.chunk.js",
-  "main.js.map": "/static/js/main.58cd5f29.chunk.js.map",
-  "static/js/1.08513ed0.chunk.js": "/static/js/1.08513ed0.chunk.js",
-  "static/js/1.08513ed0.chunk.js.map": "/static/js/1.08513ed0.chunk.js.map",
+  "main.css": "/static/css/main.7b1b8532.chunk.css",
+  "main.js": "/static/js/main.e16e9cf5.chunk.js",
+  "main.js.map": "/static/js/main.e16e9cf5.chunk.js.map",
+  "static/js/1.9fc91332.chunk.js": "/static/js/1.9fc91332.chunk.js",
+  "static/js/1.9fc91332.chunk.js.map": "/static/js/1.9fc91332.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/cv.pdf": "/static/media/cv.8d278ea3.pdf",
-  "static/css/main.5fbb8536.chunk.css.map": "/static/css/main.5fbb8536.chunk.css.map",
+  "static/media/heavylight.png": "/static/media/heavylight.d5f2d7a5.png",
+  "static/media/voidscape.png": "/static/media/voidscape.1ba6200c.png",
+  "static/css/main.7b1b8532.chunk.css.map": "/static/css/main.7b1b8532.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.0f74c6ebc676faeb65c017815db5e13c.js": "/precache-manifest.0f74c6ebc676faeb65c017815db5e13c.js",
+  "precache-manifest.65ea27c8415a928bc51e197e41f50282.js": "/precache-manifest.65ea27c8415a928bc51e197e41f50282.js",
   "service-worker.js": "/service-worker.js"
 }
