@@ -1,0 +1,9 @@
+.about__container{
+    text-align: center;
+    margin: auto;
+    margin-top: -25px;
+    inline-size: 350px;
+    overflow-wrap: break-word;
+
+}
+
