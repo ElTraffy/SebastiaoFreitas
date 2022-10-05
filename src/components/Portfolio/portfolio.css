@@ -30,6 +30,12 @@
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+
+
+}
+
+.portfolio__description {
+    margin-top: 2rem;
 }
 
 /* ============= MEDIA QUERIES (MEDIUM) ================*/
