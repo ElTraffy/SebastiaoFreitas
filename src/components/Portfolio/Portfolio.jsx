@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import HeavyLight from '../../assets/heavylight.png'
 import VoidScape from '../../assets/voidscape.png'
+import Conclusus from '../../assets/Conclusus.gif'
 
 
 const data = [
@@ -18,6 +19,13 @@ const data = [
     title: 'HeavyLight',
     description: "A small WebGL 2D puzzle platformer. This game was made with the intent of being reusable in future projects that would be completed within a very short time.",
     demo:'https://sebastiaofreitas.itch.io/HeavyLight'
+  },
+  {
+    id: 3,
+    image: Conclusus,
+    title: 'Conclusus',
+    description: "Taking advantage of the previous made template from HeavyLight, this project has 30 levels instead of 20, over 4 unique mechanics instead of a single one and still this project was completed in a shorter ammount of time.",
+    demo:'https://sebastiaofreitas.itch.io/Conclusus'
   }
 ]
 
