@@ -9,9 +9,9 @@ const data = [
   {
     id: 1,
     image: VoidScape,
-    title: 'VoidScape',
+    title: 'Project VoidScape',
     description: "A very early version of a first-person rogue-like dungeon crawler. Centered around a complex weapon crafting system, over 50 gameplay changing features and procedural generated maps.",
-    demo:'https://sebastiaofreitas.itch.io/voidscape'
+    demo:'https://sebastianfreitas.itch.io/voidscape-prototype'
   },
   {
     id: 2,
