@@ -24,7 +24,7 @@ const data = [
     id: 3,
     image: Conclusus,
     title: 'Conclusus',
-    description: "Taking advantage of the previous made template from HeavyLight, this project has 30 levels instead of 20, over 4 unique mechanics instead of a single one and still this project was completed in a shorter ammount of time.",
+    description: "Taking advantage of the previous made template from HeavyLight, this project has 30 levels instead of 20, over 4 unique mechanics instead of a single one and still this project was completed in a shorter amount of time.",
     demo:'https://sebastiaofreitas.itch.io/Conclusus'
   }
 ]
